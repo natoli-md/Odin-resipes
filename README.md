@@ -1,2 +1,2 @@
 # Odin-resipes
-I am to work best project as I can to do.
+I am trying to work best as I can to do.
